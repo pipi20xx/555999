@@ -79,3 +79,4 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bCASO\b => 华盟字幕社
 (?i)\bhyakuhuyu\b => 百冬练习组
 (?i)\S1YURICON\b => S1百综字幕组
+(?i)\heibaiSub\b => 黑白字幕组
