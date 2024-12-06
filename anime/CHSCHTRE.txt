@@ -12,6 +12,7 @@ ASSx1 => 简体内封
 (?i)(CHS|GB|SC)(&|＆|\x20)(CHT|BIG5|TC) => 简繁内封
 (?i)(CHS|GB|SC)(_|&|＆|\x20)JA?PN? => 简日双语
 (?i)\[JA?PN?(_|&|＆|\x20)?(SC|CHS|GB)\] => [简日双语]
+(?i)\[JA?PN?(_|&|＆|\x20)?(TC|CHT|BIG5)\] => [繁日双语]
 \[SweetSub\](.*)\[CHS\] => [SweetSub]\1[简日双语]
 × => x
 \[CHS\] => [简体内嵌]
