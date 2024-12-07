@@ -78,10 +78,12 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 \bQBZ\b => 碧蓝档案情报站字幕组
 (?i)\bCASO\b => 华盟字幕社
 (?i)\bhyakuhuyu\b => 百冬练习组
-(?i)\S1YURICON\b => S1百综字幕组
-(?i)\heibaiSub\b => 黑白字幕组
-VanillaTrans => 香子兰翻译同好会
-(?i)\Suzu-Kaze\b => 鈴風字幕組
+(?i)\bS1YURICON\b => S1百综字幕组
+(?i)\bheibaiSub\b => 黑白字幕组
+(?i)\bVanillaTrans\b => 香子兰翻译同好会
+(?i)\bSuzu-Kaze\b => 鈴風字幕組
+(?i)\bYYSUB-RAW\b  => 夜莺家族
+(?i)\b64bitsub\b => 六四位元字幕組
 (?<=[\W_])CR(?=[\W_]) => Crunchyroll
 (?<=[\W_])NF(?=[\W_]) => Netflix
 (?<=[\W_])AMZN(?=[\W_]) => Amazon
