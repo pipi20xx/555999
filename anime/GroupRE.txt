@@ -80,6 +80,7 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bhyakuhuyu\b => 百冬练习组
 (?i)\S1YURICON\b => S1百综字幕组
 (?i)\heibaiSub\b => 黑白字幕组
+(?i)\VanillaTrans\b => 香子兰翻译同好会
 (?<=[\W_])CR(?=[\W_]) => Crunchyroll
 (?<=[\W_])NF(?=[\W_]) => Netflix
 (?<=[\W_])AMZN(?=[\W_]) => Amazon
