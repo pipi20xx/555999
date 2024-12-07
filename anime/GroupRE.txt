@@ -84,6 +84,8 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bSuzu-Kaze\b => 鈴風字幕組
 (?i)\bYYSUB-RAW\b  => 夜莺家族
 (?i)\b64bitsub\b => 六四位元字幕組
+(?i)\bTxxZ\b => 天香字幕社
+(?i)\bEMD\b => 恶魔岛字幕组
 (?<=[\W_])CR(?=[\W_]) => Crunchyroll
 (?<=[\W_])NF(?=[\W_]) => Netflix
 (?<=[\W_])AMZN(?=[\W_]) => Amazon
