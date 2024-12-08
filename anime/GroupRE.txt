@@ -57,7 +57,7 @@ AKito => AKito秋人
 (?i)\bSakurato\b|樱都字幕组|桜都字幕组|桜都|櫻都字幕組 => 桜都字幕组
 (?i)\bCoolFansSub\b => 冷番补完字幕组
 (?i)\bShirokoi\b => 白恋字幕组
-(?i)\bFLsnow\b|雪飄工作室 => 雪飘工作室
+(?i)\bFLsnow\b|雪飄工作室|(?i)\bFLsnow.feat.PO\b => 雪飘工作室
 (\[|【|&|x|×)DAY(】|]|&|x|×) => \1DAY字幕组\2
 (?<=[\W_x])FSD(?=[\W_x]) => FSD字幕组
 酷漫(?![\u4e00-\u9fa5]) => 酷漫字幕组
