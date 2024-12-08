@@ -12,6 +12,7 @@ jap_chs_cht => 简繁日内封
 (?i)(CHS|GB|SC)_JA?PN?(&|＆|\x20)(CHT|BIG5|TC)_JA?PN? => 简繁日内封
 (?i)(CHS|GB|SC)(&|＆|\x20)(CHT|BIG5|TC) => 简繁内封
 (?i)(CHS|GB|SC)(_|&|＆|\x20)JA?PN? => 简日双语
+(?i)(CHT|BIG5|TC)(_|&|＆|\x20)JA?PN? => 繁日双语
 (?i)\[JA?PN?(_|&|＆|\x20)?(SC|CHS|GB)\] => [简日双语]
 (?i)\[JA?PN?(_|&|＆|\x20)?(TC|CHT|BIG5)\] => [繁日双语]
 \[SweetSub\](.*)\[CHS\] => [SweetSub]\1[简日双语]
