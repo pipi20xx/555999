@@ -2,6 +2,8 @@
 
 
 https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/CHSCHTRE.txt 比如CHS变成简体内嵌
+
+
 https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/GroupRE.txt  字幕组名字的替换
 
 
