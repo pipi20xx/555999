@@ -93,4 +93,3 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?<=[\W_])DV(?=[\W_]) => DoVi
 (?<=[\W_])ATVP(?=[\W_]) => AppleTV+
 (?<=[\W_])DSNP(?=[\W_]) => Disney+
-(?<!-)(Disney\+|playWEB|Baha|B-Global|Crunchyroll|friDay|Netflix|Amazon|AppleTV\+) => -\1
