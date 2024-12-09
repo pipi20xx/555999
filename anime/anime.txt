@@ -26,6 +26,6 @@
 (\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(89[2-9]|9[0-9][0-9]|10[0-7][0-9]|108[0-8])\]) => 海贼王 1999][S21E
 (\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(1089|109[0-9]|110[0-9]|111[0-9]|112[0-9]|113[0-8])\]) => 海贼王 1999][S22E
 #雪飘秘密的偶像公主
-\[FLsnow.feat.PO\]\[Himitsu_no_Aipri\]\[1080P\]\[(.+?)\] => {[tmdbid=245204;type=tv;s=1]} E\1
+(\[FLsnow.feat.PO\]|\[雪飘工作室\])\[Himitsu_no_Aipri\]\[1080P\]\[(.+?)\] => {[tmdbid=245204;type=tv;s=1]} E\1
 #妖精的尾巴 百年任务
 FAIRY TAIL - 100 YEARS QUEST => FAIRY TAIL {[tmdbid=248947;type=tv;s=1]}
