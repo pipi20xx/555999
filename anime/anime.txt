@@ -2,3 +2,26 @@
 (?<!-)(Disney\+|playWEB|Baha|B-Global|Crunchyroll|friDay|KKTV|ATVP|DSNP|NF|CRAMZN|Netflix|Amazon|AppleTV\+) => -\1
 #银色子弹柯南
 \[银色子弹字幕组\]\[CONAN\]\[[0-9]+\]|\[SBSUB\]\[CONAN\]\[[0-9]+\] => {[tmdbid=30983;type=tv;s=1]}
+#枫雪海贼王
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(00[1-9]|0[1-5][0-9]|06[0-1])\]) => 海贼王 1999][S01E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(06[2-9]|07[0-7])\]) => 海贼王 1999][S02E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(07[8-9]|08[0-9]|09[0-1])\]) => 海贼王 1999][S03E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(09[2-9]|1[0-2][0-9]|130)\]) => 海贼王 1999][S04E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(13[1-9]|14[0-3])\]) => 海贼王 1999][S05E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(14[4-9]|1[5-8][0-9]|19[0-5])\]) => 海贼王 1999][S06E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(19[6-9]|2[0-1][0-9]|22[0-8])\]) => 海贼王 1999][S07E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(229|2[3-5][0-9]|26[0-3])\]) => 海贼王 1999][S08E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(26[4-9]|2[7-9][0-9]|3[0-2][0-9]|33[0-6])\]) => 海贼王 1999][S09E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(33[7-9]|3[4-7][0-9]|38[0-1])\]) => 海贼王 1999][S10E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(38[2-9]|39[0-9]|40[0-7])\]) => 海贼王 1999][S11E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(40[8-9]|41[0-9]|42[0-1])\]) => 海贼王 1999][S12E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(42[2-9]|4[0-9][0-9]|5[0-1][0-9]|52[0-2])\]) => 海贼王 1999][S13E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(52[3-9]|5[3-7][0-9]|580)\]) => 海贼王 1999][S14E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(58[1-9]|59[0-9]|6[0-3][0-9]|64[0-2])\]) => 海贼王 1999][S15E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(64[3-9]|6[5-8][0-9]|69[0-2])\]) => 海贼王 1999][S16E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(69[3-9]|7[0-3][0-9]|74[0-8])\]) => 海贼王 1999][S17E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(749|7[5-9][0-9]|80[0-3])\]) => 海贼王 1999][S18E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(80[4-9]|8[1-6][0-9]|87[0-7])\]) => 海贼王 1999][S19E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(87[8-9]|88[0-9]|89[0-1])\]) => 海贼王 1999][S20E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(89[2-9]|9[0-9][0-9]|10[0-7][0-9]|108[0-8])\]) => 海贼王 1999][S21E
+(\[OPFansMaplesnow\]|\[OPFans枫雪动漫\])\[one_piece\]\[(?=(1089|109[0-9]|110[0-9]|111[0-9]|112[0-9]|113[0-8])\]) => 海贼王 1999][S22E
