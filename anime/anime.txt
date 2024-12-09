@@ -1,4 +1,4 @@
 #识别为字幕组
 (?<!-)(Disney\+|playWEB|Baha|B-Global|Crunchyroll|friDay|KKTV|ATVP|DSNP|NF|CRAMZN|Netflix|Amazon|AppleTV\+) => -\1
 #银色子弹柯南
-\[SBSUB\]\[CONAN\]\[[0-9]+\] => {[tmdbid=30983;type=tv;s=1]}
+\[银色子弹字幕组\]\[CONAN\]\[[0-9]+\]|[SBSUB\]\[CONAN\]\[[0-9]+\] => {[tmdbid=30983;type=tv;s=1]}
