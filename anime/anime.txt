@@ -31,3 +31,5 @@
 FAIRY TAIL - 100 YEARS QUEST => FAIRY TAIL {[tmdbid=248947;type=tv;s=1]}
 #宝可梦地平线 枫叶
 \[Pocket_Monsters_Horizontes\] => {[tmdbid=220150;type=tv;s=1]}
+#LOLI死神 千年血战
+BLEACH Sennen Kessen-hen => BLEACH Sennen Kessen-hen S2
