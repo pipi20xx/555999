@@ -39,3 +39,5 @@ Touhai => Touhai {[tmdbid=243452;type=tv;s=1]}
 Maou-sama, Retry! R => Maou-sama, Retry! S2
 #青之驱魔师 雪之尽头篇
 Ao no Exorcist Yuki no Hate-hen => Ao no Exorcist Yuki no Hate-hen {[tmdbid=38464;type=tv;s=4]}
+#真的要结婚吗
+Kekkon suru tte, Hontou desu ka => Kekkon suru tte, Hontou desu ka {[tmdbid=230189;type=tv;s=1]}
