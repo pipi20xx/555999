@@ -28,7 +28,7 @@
 #雪飘秘密的偶像公主
 (\[FLsnow.feat.PO\]|\[雪飘工作室\])\[Himitsu_no_Aipri\]\[1080P\]\[(.+?)\] => \1{[tmdbid=245204;type=tv;s=1]} E\2
 #妖精的尾巴 百年任务
-FAIRY TAIL - 100 YEARS QUEST => FAIRY TAIL {[tmdbid=248947;type=tv;s=1]}
+FAIRY TAIL - 100 YEARS QUEST - ([0-9][0-9]) => {[tmdbid=248947;type=tv;s=1;e=\1]}
 #宝可梦地平线 枫叶
 \[Pocket_Monsters_Horizontes\] => {[tmdbid=220150;type=tv;s=1]}
 #LOLI死神 千年血战
