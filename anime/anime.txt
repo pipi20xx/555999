@@ -45,3 +45,5 @@ Kekkon suru tte, Hontou desu ka|Kekkon.Suru.tte.Hontou.desu.ka.365.Days.To.The.W
 Ranma.S01E([0-9][0-9]).2024 => {[tmdbid=259140;type=tv;s=1;e=\1]}
 #魔王2099
 Maou 2099 - ([0-9][0-9]) => {[tmdbid=234538;type=tv;s=1;e=\1]}
+#机械臂
+Mecha-Ude - ([0-9][0-9]) => {[tmdbid=210355;type=tv;s=1;e=\1]}
