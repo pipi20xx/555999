@@ -37,8 +37,8 @@
 (?i)\bFAIRY TAIL - 100 YEARS QUEST\b => {[tmdbid=248947;type=tv]}
 #宝可梦地平线 枫叶
 \[Pocket_Monsters_Horizontes\] => {[tmdbid=220150;type=tv;s=1]}
-#LOLI死神 千年血战
-BLEACH Sennen Kessen-hen => BLEACH Sennen Kessen-hen S2
+#死神 千年血战
+(?i)\bBLEACH Sennen Kessen.hen\b => BLEACH Sennen Kessen-hen S2
 #2024冻牌
 (?i)\bTouhai\b => Touhai {[tmdbid=243452;type=tv;s=1]}
 #重来吧魔王大人S2
