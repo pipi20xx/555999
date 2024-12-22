@@ -86,6 +86,7 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bEMD\b => 恶魔岛字幕组
 (?i)\bTamersUnion\b => 驯兽师联盟
 (?i)\bEnkanRec\b => 圆环记录攻略组
+(?i)\bMILKs\b => 奶²
 (?<=[\W_])CR(?=[\W_]) => Crunchyroll
 (?<=[\W_])NF(?=[\W_]) => Netflix
 (?<=[\W_])AMZN(?=[\W_]) => Amazon
