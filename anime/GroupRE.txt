@@ -88,6 +88,7 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bEnkanRec\b => 圆环记录攻略组
 (?i)\bMILKs\b => 奶²
 (?i)\bMoezakuraSub\b => 萌樱字幕组
+(?i)\bYunFog\b => 云歌字幕组
 (?<=[\W_])CR(?=[\W_]) => Crunchyroll
 (?<=[\W_])NF(?=[\W_]) => Netflix
 (?<=[\W_])AMZN(?=[\W_]) => Amazon
