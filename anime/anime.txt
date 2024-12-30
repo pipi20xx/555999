@@ -67,6 +67,6 @@ Ranma.S01E([0-9][0-9]).2024 => {[tmdbid=259140;type=tv;s=1;e=\1]}
 (?i)\bNatsume.Yuujinchou.+?San\b => Natsume.Yuujinchou.S3
 (?i)\bZoku.Natsume.Yuujinchou\b => Natsume.Yuujinchou.S2
 #青之驱魔师S2-S5
-(?i)\bAo.no.Exorcist.+?Yuki.no.Hate.hen\b => Ao.no.Exorcist.S4{[tmdbid=38464;type=tv]}
-(?i)\bAo.no.Exorcist.+?Shimane.Illuminati.hen\b => Ao.no.Exorcist.S3{[tmdbid=38464;type=tv]}
-(?i)\bAo.no.Exorcist.+?Kyoto.Fujouou.hen\b => Ao.no.Exorcist.S2{[tmdbid=38464;type=tv]}
+(?i)\bAo.no.Exorcist.+?Yuki.no.Hate.hen\b => Ao.no.Exorcist{[tmdbid=38464;type=tv;s=4]}
+(?i)\bAo.no.Exorcist.+?Shimane.Illuminati.hen\b => Ao.no.Exorcist{[tmdbid=38464;type=tv;s=3]}
+(?i)\bAo.no.Exorcist.+?Kyoto.Fujouou.hen\b => Ao.no.Exorcist{[tmdbid=38464;type=tv;s=2]}
