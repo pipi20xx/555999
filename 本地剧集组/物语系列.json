@@ -1,0 +1,672 @@
+{
+  "description": "S0物语系列特别篇 残酷童话1/S1化物语1-15/S2伪物语1-11/S3猫物语黑1-4/S4物语系列第二季 猫物语白1-5 总集篇一6  倾物语7-10 总集篇二11 囮物语12-15 总集篇三 16 鬼物语17-20 恋物语21-26 花物语27-31/S5凭物语1-4/S6终物语上中1-13/S7历物语1-12/S8终物语下1-7/S9续终物语1-9/S10物语系列外传季1-14",
+  "groups": [
+    {
+      "name": "化物语",
+      "order": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 2,
+          "season_number": 0,
+          "order": 12
+        },
+        {
+          "episode_number": 3,
+          "season_number": 0,
+          "order": 13
+        },
+        {
+          "episode_number": 4,
+          "season_number": 0,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "name": "伪物语",
+      "order": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 2,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 2,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 2,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 2,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 2,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 2,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 2,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 2,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 2,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 2,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 2,
+          "order": 10
+        }
+      ]
+    },
+    {
+      "name": "猫物语黑",
+      "order": 3,
+      "episodes": [
+        {
+          "episode_number": 6,
+          "season_number": 0,
+          "order": 0
+        },
+        {
+          "episode_number": 7,
+          "season_number": 0,
+          "order": 1
+        },
+        {
+          "episode_number": 8,
+          "season_number": 0,
+          "order": 2
+        },
+        {
+          "episode_number": 9,
+          "season_number": 0,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "name": "物语系列第二季",
+      "order": 4,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 3,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 3,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 3,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 3,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 3,
+          "order": 4
+        },
+        {
+          "episode_number": 10,
+          "season_number": 0,
+          "order": 5
+        },
+        {
+          "episode_number": 6,
+          "season_number": 3,
+          "order": 6
+        },
+        {
+          "episode_number": 7,
+          "season_number": 3,
+          "order": 7
+        },
+        {
+          "episode_number": 8,
+          "season_number": 3,
+          "order": 8
+        },
+        {
+          "episode_number": 9,
+          "season_number": 3,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 0,
+          "order": 10
+        },
+        {
+          "episode_number": 10,
+          "season_number": 3,
+          "order": 11
+        },
+        {
+          "episode_number": 11,
+          "season_number": 3,
+          "order": 12
+        },
+        {
+          "episode_number": 12,
+          "season_number": 3,
+          "order": 13
+        },
+        {
+          "episode_number": 13,
+          "season_number": 3,
+          "order": 14
+        },
+        {
+          "episode_number": 12,
+          "season_number": 0,
+          "order": 15
+        },
+        {
+          "episode_number": 14,
+          "season_number": 3,
+          "order": 16
+        },
+        {
+          "episode_number": 15,
+          "season_number": 3,
+          "order": 17
+        },
+        {
+          "episode_number": 16,
+          "season_number": 3,
+          "order": 18
+        },
+        {
+          "episode_number": 17,
+          "season_number": 3,
+          "order": 19
+        },
+        {
+          "episode_number": 18,
+          "season_number": 3,
+          "order": 20
+        },
+        {
+          "episode_number": 19,
+          "season_number": 3,
+          "order": 21
+        },
+        {
+          "episode_number": 20,
+          "season_number": 3,
+          "order": 22
+        },
+        {
+          "episode_number": 21,
+          "season_number": 3,
+          "order": 23
+        },
+        {
+          "episode_number": 22,
+          "season_number": 3,
+          "order": 24
+        },
+        {
+          "episode_number": 23,
+          "season_number": 3,
+          "order": 25
+        },
+        {
+          "episode_number": 13,
+          "season_number": 0,
+          "order": 26
+        },
+        {
+          "episode_number": 14,
+          "season_number": 0,
+          "order": 27
+        },
+        {
+          "episode_number": 15,
+          "season_number": 0,
+          "order": 28
+        },
+        {
+          "episode_number": 16,
+          "season_number": 0,
+          "order": 29
+        },
+        {
+          "episode_number": 17,
+          "season_number": 0,
+          "order": 30
+        }
+      ]
+    },
+    {
+      "name": "凭物语",
+      "order": 5,
+      "episodes": [
+        {
+          "episode_number": 18,
+          "season_number": 0,
+          "order": 0
+        },
+        {
+          "episode_number": 19,
+          "season_number": 0,
+          "order": 1
+        },
+        {
+          "episode_number": 20,
+          "season_number": 0,
+          "order": 2
+        },
+        {
+          "episode_number": 21,
+          "season_number": 0,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "name": "终物语",
+      "order": 6,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 4,
+          "order": 0
+        },
+        {
+          "episode_number": 1,
+          "season_number": 4,
+          "order": 1
+        },
+        {
+          "episode_number": 2,
+          "season_number": 4,
+          "order": 2
+        },
+        {
+          "episode_number": 3,
+          "season_number": 4,
+          "order": 3
+        },
+        {
+          "episode_number": 4,
+          "season_number": 4,
+          "order": 4
+        },
+        {
+          "episode_number": 5,
+          "season_number": 4,
+          "order": 5
+        },
+        {
+          "episode_number": 6,
+          "season_number": 4,
+          "order": 6
+        },
+        {
+          "episode_number": 7,
+          "season_number": 4,
+          "order": 7
+        },
+        {
+          "episode_number": 8,
+          "season_number": 4,
+          "order": 8
+        },
+        {
+          "episode_number": 9,
+          "season_number": 4,
+          "order": 9
+        },
+        {
+          "episode_number": 10,
+          "season_number": 4,
+          "order": 10
+        },
+        {
+          "episode_number": 11,
+          "season_number": 4,
+          "order": 11
+        },
+        {
+          "episode_number": 12,
+          "season_number": 4,
+          "order": 12
+        }
+      ]
+    },
+    {
+      "name": "历物语",
+      "order": 7,
+      "episodes": [
+        {
+          "episode_number": 22,
+          "season_number": 0,
+          "order": 0
+        },
+        {
+          "episode_number": 23,
+          "season_number": 0,
+          "order": 1
+        },
+        {
+          "episode_number": 24,
+          "season_number": 0,
+          "order": 2
+        },
+        {
+          "episode_number": 25,
+          "season_number": 0,
+          "order": 3
+        },
+        {
+          "episode_number": 26,
+          "season_number": 0,
+          "order": 4
+        },
+        {
+          "episode_number": 27,
+          "season_number": 0,
+          "order": 5
+        },
+        {
+          "episode_number": 28,
+          "season_number": 0,
+          "order": 6
+        },
+        {
+          "episode_number": 29,
+          "season_number": 0,
+          "order": 7
+        },
+        {
+          "episode_number": 30,
+          "season_number": 0,
+          "order": 8
+        },
+        {
+          "episode_number": 31,
+          "season_number": 0,
+          "order": 9
+        },
+        {
+          "episode_number": 32,
+          "season_number": 0,
+          "order": 10
+        },
+        {
+          "episode_number": 33,
+          "season_number": 0,
+          "order": 11
+        }
+      ]
+    },
+    {
+      "name": "终物语下",
+      "order": 8,
+      "episodes": [
+        {
+          "episode_number": 35,
+          "season_number": 0,
+          "order": 0
+        },
+        {
+          "episode_number": 36,
+          "season_number": 0,
+          "order": 1
+        },
+        {
+          "episode_number": 37,
+          "season_number": 0,
+          "order": 2
+        },
+        {
+          "episode_number": 38,
+          "season_number": 0,
+          "order": 3
+        },
+        {
+          "episode_number": 39,
+          "season_number": 0,
+          "order": 4
+        },
+        {
+          "episode_number": 40,
+          "season_number": 0,
+          "order": 5
+        },
+        {
+          "episode_number": 41,
+          "season_number": 0,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "name": "续终物语",
+      "order": 9,
+      "episodes": [
+        {
+          "episode_number": 42,
+          "season_number": 0,
+          "order": 0
+        },
+        {
+          "episode_number": 43,
+          "season_number": 0,
+          "order": 1
+        },
+        {
+          "episode_number": 44,
+          "season_number": 0,
+          "order": 2
+        },
+        {
+          "episode_number": 45,
+          "season_number": 0,
+          "order": 3
+        },
+        {
+          "episode_number": 46,
+          "season_number": 0,
+          "order": 4
+        },
+        {
+          "episode_number": 47,
+          "season_number": 0,
+          "order": 5
+        }
+      ]
+    },
+    {
+      "name": "物语系列 外传季&怪物季",
+      "order": 10,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 5,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 5,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 5,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 5,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 5,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 5,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 5,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 5,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 5,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 5,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 5,
+          "order": 10
+        },
+        {
+          "episode_number": 12,
+          "season_number": 5,
+          "order": 11
+        },
+        {
+          "episode_number": 13,
+          "season_number": 5,
+          "order": 12
+        },
+        {
+          "episode_number": 14,
+          "season_number": 5,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "name": "特别篇",
+      "order": 0,
+      "episodes": [
+        {
+          "episode_number": 48,
+          "season_number": 0,
+          "order": 0
+        },
+        {
+          "episode_number": 1,
+          "season_number": 0,
+          "order": 1
+        },
+        {
+          "episode_number": 5,
+          "season_number": 0,
+          "order": 2
+        },
+        {
+          "episode_number": 49,
+          "season_number": 0,
+          "order": 3
+        }
+      ]
+    }
+  ],
+  "id": ""
+}
