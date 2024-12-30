@@ -45,8 +45,6 @@
 (?i)\bTouhai\b => Touhai {[tmdbid=243452;type=tv;s=1]}
 #重来吧魔王大人S2
 Maou-sama, Retry! R => Maou-sama, Retry! S2
-#青之驱魔师 雪之尽头篇
-Ao no Exorcist Yuki no Hate-hen => Ao no Exorcist Yuki no Hate-hen {[tmdbid=38464;type=tv;s=4]}
 #真的要结婚吗
 Kekkon suru tte, Hontou desu ka|Kekkon.Suru.tte.Hontou.desu.ka.365.Days.To.The.Wedding => Kekkon suru tte, Hontou desu ka {[tmdbid=230189;type=tv;s=1]}
 #乱马2024
@@ -68,3 +66,7 @@ Ranma.S01E([0-9][0-9]).2024 => {[tmdbid=259140;type=tv;s=1;e=\1]}
 (?i)\bNatsume.Yuujinchou.+?Shi\b => Natsume.Yuujinchou.S4
 (?i)\bNatsume.Yuujinchou.+?San\b => Natsume.Yuujinchou.S3
 (?i)\bZoku.Natsume.Yuujinchou\b => Natsume.Yuujinchou.S2
+#青之驱魔师S2-S5
+(?i)\bAo.no.Exorcist.+?Yuki.no.Hate.hen\b => Ao.no.Exorcist.S4{[tmdbid=38464;type=tv]}
+(?i)\bAo.no.Exorcist.+?Shimane.Illuminati.hen\b => Ao.no.Exorcist.S3{[tmdbid=38464;type=tv]}
+(?i)\bAo.no.Exorcist.+?Kyoto.Fujouou.hen\b => Ao.no.Exorcist.S2{[tmdbid=38464;type=tv]}
