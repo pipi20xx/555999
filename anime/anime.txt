@@ -1,5 +1,7 @@
 #识别为字幕组
 (?<!-)(Disney\+|playWEB|Baha|B-Global|Crunchyroll|friDay|KKTV|ATVP|DSNP|NF|CRAMZN|Netflix|Amazon|AppleTV\+) => -\1
+#防止00v2识别异常
+\[(\d+)v\d\] => \[\1\]
 #精准识别集号 [组名][片名][集号]
 ((\[喵萌奶茶屋\]|\[字幕组\]))\[(.+?)\]\[([0-9][0-9])] => \1\3 episode\4 
 #精准识别集号 [组名]片名[集号]
