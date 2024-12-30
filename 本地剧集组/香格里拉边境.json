@@ -1,0 +1,268 @@
+{
+  "description": "S1 1-25/S2 1-25",
+  "groups": [
+    {
+      "name": "第一季",
+      "order": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 12,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 13,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 14,
+          "season_number": 1,
+          "order": 13
+        },
+        {
+          "episode_number": 15,
+          "season_number": 1,
+          "order": 14
+        },
+        {
+          "episode_number": 16,
+          "season_number": 1,
+          "order": 15
+        },
+        {
+          "episode_number": 17,
+          "season_number": 1,
+          "order": 16
+        },
+        {
+          "episode_number": 18,
+          "season_number": 1,
+          "order": 17
+        },
+        {
+          "episode_number": 19,
+          "season_number": 1,
+          "order": 18
+        },
+        {
+          "episode_number": 20,
+          "season_number": 1,
+          "order": 19
+        },
+        {
+          "episode_number": 21,
+          "season_number": 1,
+          "order": 20
+        },
+        {
+          "episode_number": 22,
+          "season_number": 1,
+          "order": 21
+        },
+        {
+          "episode_number": 23,
+          "season_number": 1,
+          "order": 22
+        },
+        {
+          "episode_number": 24,
+          "season_number": 1,
+          "order": 23
+        },
+        {
+          "episode_number": 25,
+          "season_number": 1,
+          "order": 24
+        }
+      ]
+    },
+    {
+      "name": "第二季",
+      "order": 2,
+      "episodes": [
+        {
+          "episode_number": 26,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 27,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 28,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 29,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 30,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 31,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 32,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 33,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 34,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 35,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 36,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 37,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 38,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 39,
+          "season_number": 1,
+          "order": 13
+        },
+        {
+          "episode_number": 40,
+          "season_number": 1,
+          "order": 14
+        },
+        {
+          "episode_number": 41,
+          "season_number": 1,
+          "order": 15
+        },
+        {
+          "episode_number": 42,
+          "season_number": 1,
+          "order": 16
+        },
+        {
+          "episode_number": 43,
+          "season_number": 1,
+          "order": 17
+        },
+        {
+          "episode_number": 44,
+          "season_number": 1,
+          "order": 18
+        },
+        {
+          "episode_number": 45,
+          "season_number": 1,
+          "order": 19
+        },
+        {
+          "episode_number": 46,
+          "season_number": 1,
+          "order": 20
+        },
+        {
+          "episode_number": 47,
+          "season_number": 1,
+          "order": 21
+        },
+        {
+          "episode_number": 48,
+          "season_number": 1,
+          "order": 22
+        },
+        {
+          "episode_number": 49,
+          "season_number": 1,
+          "order": 23
+        },
+        {
+          "episode_number": 50,
+          "season_number": 1,
+          "order": 24
+        }
+      ]
+    }
+  ],
+  "id": ""
+}
