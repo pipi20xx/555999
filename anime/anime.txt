@@ -75,4 +75,4 @@ Ranma.S01E([0-9][0-9]).2024 => {[tmdbid=259140;type=tv;s=1;e=\1]}
 #浪客剑心2024
 (?i)\bRurouni Kenshin\b.+(202[0-9])|(\[orion origin\]|\[猎户发布组\]) \bRurouni Kenshin\b => tmdbid-210879.S1
 #美妙天堂#星光樂園#
-\bidol.time.pripara\b => {[tmdbid=67627;type=tv;s=2]}
+(?i)\bidol.time.pripara\b => {[tmdbid=67627;type=tv;s=2]}
