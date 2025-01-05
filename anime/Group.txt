@@ -94,7 +94,7 @@ MyVideo
 AMZN
 KKTV
 friDay
-Disney+
+Disney\+
 LINETV
 NF
 playWEB
