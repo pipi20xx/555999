@@ -12,5 +12,5 @@
 #物理魔法师马修
 #(Mashle S2) episode(1[3-9]) => \1 {[e=\2@-12]}
 #(Mashle S2) episode(2[0-4]) => \1 {[e=\2@-12]}
-(?i)Mashle.S2.\[(1[3-9])\] => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
-(?i)Mashle.S2.\[(2[0-4])\] => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
+(?i)Mashle.S2.*?\[(1[3-9])\] => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
+(?i)Mashle.S2.*?\[(2[0-4])\] => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
