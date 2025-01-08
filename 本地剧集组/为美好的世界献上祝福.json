@@ -1,0 +1,189 @@
+{
+  "description": "OVA放入整片第11集",
+  "groups": [
+    {
+      "name": "第1季",
+      "order": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 1,
+          "season_number": 0,
+          "order": 10
+        }
+      ]
+    },
+    {
+      "name": "第2季",
+      "order": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 2,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 2,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 2,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 2,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 2,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 2,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 2,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 2,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 2,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 2,
+          "order": 9
+        },
+        {
+          "episode_number": 2,
+          "season_number": 0,
+          "order": 10
+        }
+      ]
+    },
+    {
+      "name": "第3季",
+      "order": 3,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 3,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 3,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 3,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 3,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 3,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 3,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 3,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 3,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 3,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 3,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 3,
+          "order": 10
+        }
+      ]
+    },
+  ],
+  "id": ""
+}
