@@ -1,0 +1,127 @@
+{
+  "description": "暗杀教室第0话插入S1",
+  "groups": [
+    {
+      "name": "暗杀教室",
+      "order": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 1,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 1,
+          "order": 1
+        },
+        {
+          "episode_number": 3,
+          "season_number": 1,
+          "order": 2
+        },
+        {
+          "episode_number": 4,
+          "season_number": 1,
+          "order": 3
+        },
+        {
+          "episode_number": 5,
+          "season_number": 1,
+          "order": 4
+        },
+        {
+          "episode_number": 6,
+          "season_number": 1,
+          "order": 5
+        },
+        {
+          "episode_number": 7,
+          "season_number": 1,
+          "order": 6
+        },
+        {
+          "episode_number": 8,
+          "season_number": 1,
+          "order": 7
+        },
+        {
+          "episode_number": 9,
+          "season_number": 1,
+          "order": 8
+        },
+        {
+          "episode_number": 10,
+          "season_number": 1,
+          "order": 9
+        },
+        {
+          "episode_number": 11,
+          "season_number": 1,
+          "order": 10
+        },
+        {
+          "episode_number": 12,
+          "season_number": 1,
+          "order": 11
+        },
+        {
+          "episode_number": 13,
+          "season_number": 1,
+          "order": 12
+        },
+        {
+          "episode_number": 14,
+          "season_number": 1,
+          "order": 13
+        },
+        {
+          "episode_number": 15,
+          "season_number": 1,
+          "order": 14
+        },
+        {
+          "episode_number": 16,
+          "season_number": 1,
+          "order": 15
+        },
+        {
+          "episode_number": 17,
+          "season_number": 1,
+          "order": 16
+        },
+        {
+          "episode_number": 18,
+          "season_number": 1,
+          "order": 17
+        },
+        {
+          "episode_number": 19,
+          "season_number": 1,
+          "order": 18
+        },
+        {
+          "episode_number": 20,
+          "season_number": 1,
+          "order": 19
+        },
+        {
+          "episode_number": 21,
+          "season_number": 1,
+          "order": 20
+        },
+        {
+          "episode_number": 22,
+          "season_number": 1,
+          "order": 21
+        },
+        {
+          "episode_number": 1,
+          "season_number": 0,
+          "order": -1
+        }
+      ]
+    }
+  ],
+  "id": ""
+}
