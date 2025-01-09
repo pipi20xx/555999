@@ -89,3 +89,5 @@ Ranma.S01E([0-9][0-9]).2024 => {[tmdbid=259140;type=tv;s=1;e=\1]}
 \[VCB-Studio\] xxxHOLiC Rou => {[tmdbid=36250;type=tv;s=0;e=3]}
 \[VCB-Studio\] xxxHOLiC \[\d+\] => {[tmdbid=36250;type=tv;s=1]}
 \[VCB-Studio\] xxxHOLiC Kei \[\d+\] => {[tmdbid=36250;type=tv;s=2]}
+#暗杀教室VCB
+Ansatsu Kyoushitsu S2 Kagai Jugyo Hen \[(\d+)\]=> {[tmdbid=62110;type=tv;s=0;e=\1@+1]}
