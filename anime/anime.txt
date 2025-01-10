@@ -93,6 +93,11 @@ Ansatsu Kyoushitsu \[OAD\] => {[tmdbid=439191;type=movie]}
 #为美好的世界献上祝福
 Kono.Subarashii.Sekai.ni.Shukufuku.+\b2\b =>  {[tmdbid=65844;type=tv;s=2]}
 Kono.Subarashii.Sekai.ni.Shukufuku.+\b3\b =>  {[tmdbid=65844;type=tv;s=3]}
+#鬼灭之刃
+Kimetsu.no.Yaiba.*(2[7-9]|3[0-3]) => {[tmdbid=85937;type=tv;s=2;e=\1@-44]}
+Kimetsu.no.Yaiba.*(3[4-9]|4[0-4]) => {[tmdbid=85937;type=tv;s=3;e=\1@-33]}
+Kimetsu.no.Yaiba.*(4[5-9]|5[0-5]) => {[tmdbid=85937;type=tv;s=4;e=\1@-44]}
+Kimetsu.no.Yaiba.*(5[6-9]|6[0-3]) => {[tmdbid=85937;type=tv;s=5;e=\1@-55]}
 #精准识别集号 VCB BDRIP
 (\[VCB-Studio\].+?)\[(\d+)\] => \1 episode\2 
 #灼眼的夏娜 philosophy-raws
