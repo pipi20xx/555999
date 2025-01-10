@@ -95,3 +95,6 @@ Kono.Subarashii.Sekai.ni.Shukufuku.+\b2\b =>  {[tmdbid=65844;type=tv;s=2]}
 Kono.Subarashii.Sekai.ni.Shukufuku.+\b3\b =>  {[tmdbid=65844;type=tv;s=3]}
 #精准识别集号 VCB BDRIP
 (\[VCB-Studio\].+?)\[(\d+)\] => \1 episode\2 
+#灼眼的夏娜 philosophy-raws
+(?i)\bShakugan.no.Shana.II\b =>  {[tmdbid=22634;type=tv;s=2]}
+(?i)\bShakugan.no.Shana.III\b =>  {[tmdbid=22634;type=tv;s=3]}
