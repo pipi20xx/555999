@@ -99,7 +99,7 @@ Kimetsu.no.Yaiba.*(3[4-9]|4[0-4]) => {[tmdbid=85937;type=tv;s=3;e=\1@-33]}
 Kimetsu.no.Yaiba.*(4[5-9]|5[0-5]) => {[tmdbid=85937;type=tv;s=4;e=\1@-44]}
 Kimetsu.no.Yaiba.*(5[6-9]|6[0-3]) => {[tmdbid=85937;type=tv;s=5;e=\1@-55]}
 #精准识别集号 VCB BDRIP
-(\[VCB-Studio\].+?)\[(\d+)\] => \1 episode\2 
+#(\[VCB-Studio\].+?)\[(\d+)\] => \1 episode\2 
 #灼眼的夏娜 philosophy-raws
 (?i)\bShakugan.no.Shana.II\b =>  {[tmdbid=22634;type=tv;s=2]}
 (?i)\bShakugan.no.Shana.III\b =>  {[tmdbid=22634;type=tv;s=3]}
