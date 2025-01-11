@@ -90,9 +90,6 @@ Kimetsu.no.Yaiba.*(2[7-9]|3[0-3]) => {[tmdbid=85937;type=tv;s=2;e=\1@-44]}
 Kimetsu.no.Yaiba.*(3[4-9]|4[0-4]) => {[tmdbid=85937;type=tv;s=3;e=\1@-33]}
 Kimetsu.no.Yaiba.*(4[5-9]|5[0-5]) => {[tmdbid=85937;type=tv;s=4;e=\1@-44]}
 Kimetsu.no.Yaiba.*(5[6-9]|6[0-3]) => {[tmdbid=85937;type=tv;s=5;e=\1@-55]}
-#精准识别集号 VCB BDRIP
-#(\[VCB-Studio\].+?)\[(\d+)\] => \1 episode\2 
-(\[VCB-Studio\].+?)\[(\d+)\] => \1 {[e=\2]} 
 #灼眼的夏娜 philosophy-raws
 (?i)\bShakugan.no.Shana.II\b =>  {[tmdbid=22634;type=tv;s=2]}
 (?i)\bShakugan.no.Shana.III\b =>  {[tmdbid=22634;type=tv;s=3]}
@@ -106,3 +103,6 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 (\[.*LoliHouse\])(.*- )([0-9][0-9]) => \1\2 episode\3 
 #精准识别集号 [组名]片名[集号]BDRIP
 #(\[动漫国字幕组\])(.+?)第([0-9][0-9]) => \1\2 episode\3.S1 
+#精准识别集号 VCB BDRIP
+#(\[VCB-Studio\].+?)\[(\d+)\] => \1 episode\2 
+(\[VCB-Studio\].+?)\[(\d+)\] => \1 {[e=\2]} 
