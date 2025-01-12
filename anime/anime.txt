@@ -86,10 +86,10 @@ Ansatsu Kyoushitsu \[OAD\] => {[tmdbid=439191;type=movie]}
 Kono.Subarashii.Sekai.ni.Shukufuku.+\b3\b.+\[(\d+)\] =>  {[tmdbid=65844;type=tv;s=3;e=\1]}
 Kono.Subarashii.Sekai.ni.Shukufuku.+\b2\b.+\[(\d+)\] =>  {[tmdbid=65844;type=tv;s=2;e=\1]}
 #鬼灭之刃 vcb
-Kimetsu.no.Yaiba.*(2[7-9]|3[0-3]) => {[tmdbid=85937;type=tv;s=2;e=\1@-44]}
-Kimetsu.no.Yaiba.*(3[4-9]|4[0-4]) => {[tmdbid=85937;type=tv;s=3;e=\1@-33]}
-Kimetsu.no.Yaiba.*(4[5-9]|5[0-5]) => {[tmdbid=85937;type=tv;s=4;e=\1@-44]}
-Kimetsu.no.Yaiba.*(5[6-9]|6[0-3]) => {[tmdbid=85937;type=tv;s=5;e=\1@-55]}
+#Kimetsu.no.Yaiba.*(2[7-9]|3[0-3]) => {[tmdbid=85937;type=tv;s=2;e=\1@-26]}
+#Kimetsu.no.Yaiba.*(3[4-9]|4[0-4]) => {[tmdbid=85937;type=tv;s=3;e=\1@-33]}
+#Kimetsu.no.Yaiba.*(4[5-9]|5[0-5]) => {[tmdbid=85937;type=tv;s=4;e=\1@-44]}
+#Kimetsu.no.Yaiba.*(5[6-9]|6[0-3]) => {[tmdbid=85937;type=tv;s=5;e=\1@-55]}
 #灼眼的夏娜 philosophy-raws
 (?i)\bShakugan.no.Shana.II\b =>  {[tmdbid=22634;type=tv;s=2]}
 (?i)\bShakugan.no.Shana.III\b =>  {[tmdbid=22634;type=tv;s=3]}
