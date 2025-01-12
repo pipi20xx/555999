@@ -5,6 +5,8 @@
 \b(\d+)v\d\b => \1
 #银色子弹柯南
 (\[银色子弹字幕组\]|\[SBSUB\])\[CONAN\]\[([0-9]+)\]\[WEBRIP\] => \1{[tmdbid=30983;type=tv;s=1;e=\2]}
+#海贼王
+\bOne.Piece\b => 海贼王
 #雪飘秘密的偶像公主
 (\[FLsnow.feat.PO\]|\[雪飘工作室\])\[Himitsu_no_Aipri\]\[1080P\]\[(.+?)\] => \1{[tmdbid=245204;type=tv;s=1]} episode\2
 #妖精的尾巴 百年任务
