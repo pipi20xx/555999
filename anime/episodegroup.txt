@@ -1,7 +1,4 @@
 #需要配合本地剧集组使用 替换词
-#从零开始的异世界
-#香格里拉边境
-(?i)\bShangri.La.Frontier\b.+?((2[6-9])|(3[0-9])|(4[0-9])|(50))\b => {[tmdbid=205050;type=tv;s=2;e=\2\3\4\5@-25]}
 #灼眼的夏娜 philosophy-raws
 \[Shakugan no Shana\]\[OVA\] =>  {[tmdbid=22634;type=tv;s=1;e=13]}
 \[Shakugan no Shana S\]\[OVA([0-9])\] =>  {[tmdbid=22634;type=tv;s=4;e=\1]}
