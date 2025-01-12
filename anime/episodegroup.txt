@@ -1,21 +1,7 @@
 #需要配合本地剧集组使用
-#诸神文豪野犬
-(\[Kamigami\]|\[诸神字幕组\]) Bungo.+Stray Dogs - ((0[0-9])|(1]0-2])) => tmdbid-65931.S1.{[e=\3\4]}
-(\[Kamigami\]|\[诸神字幕组\]) Bungo.+Stray Dogs - ((1[3-9])|(2[0-5])) => tmdbid-65931.S2.{[e=\3\4@-12]}
-(\[Kamigami\]|\[诸神字幕组\]) Bungo.+Stray Dogs - ((2[6-9])|(3[0-7])) => tmdbid-65931.S3.{[e=\3\4@-25]}
-(\[Kamigami\]|\[诸神字幕组\]) Bungo.+Stray Dogs - ((3[8-9])|(4[0-9])|(50)) => tmdbid-65931.S4.{[e=\3\4\5@-37]}
 #从零开始的异世界
-(?i)Re.+Zero.+kara.+Hajimeru.+Isekai.+Seikatsu.+(\[(5[1-9])|\[(6[0-6])\]) => {[tmdbid=65942;type=tv;s=3;e=\1\2@-50]}
-(?i)Re.+Zero.+kara.+Hajimeru.+Isekai.+Seikatsu.+(\[(2[6-9])|\[(3[0-9])|\[(4[0-9])|\[(50)|\[(50).+?\]) => {[tmdbid=65942;type=tv;s=2;e=\2\3\4\5\6@-25]}
 #香格里拉边境
 (?i)\bShangri.La.Frontier\b.+?((2[6-9])|(3[0-9])|(4[0-9])|(50))\b => {[tmdbid=205050;type=tv;s=2;e=\2\3\4\5@-25]}
-#物理魔法师马修
-(?i)Mashle.S2.+?(1[3-9]) => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
-(?i)Mashle.S2.+?(2[0-4]) => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
-(?i)Mashle.+?(1[3-9]) => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
-(?i)Mashle.+?(2[0-4]) => {[tmdbid=204832;type=tv;s=2;e=\1@-12]}
-#我独自升级
-Ore.dake.Level.Up.na.Ken.+?(1[3-9]|2[0-4]) =>  {[tmdbid=127532;type=tv;s=2;e=\1@-12]}
 #灼眼的夏娜 philosophy-raws
 \[Shakugan no Shana\]\[OVA\] =>  {[tmdbid=22634;type=tv;s=1;e=13]}
 \[Shakugan no Shana S\]\[OVA([0-9])\] =>  {[tmdbid=22634;type=tv;s=4;e=\1]}
