@@ -6,7 +6,8 @@ Group.txt https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/a
 
 1 GroupRE.txt 字幕组名字替换 https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/GroupRE.txt
 
-2 anime.txt 常用替换 https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/anime.txt
+2 anime.txt 常用替换
+https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/anime.txt
 
 3 episodegroup.txt 需配合剧集组  https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/episodegroup.txt
 
