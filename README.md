@@ -10,6 +10,7 @@ anime.txt 常用替换 2
 episodegroup.txt 需配合剧集组 3
 
 自定义渲染词
+
 CHSCHTRE.txt CHS替换为简体等 1
 
 GroupRE.txt 字幕组名字替换 2 
