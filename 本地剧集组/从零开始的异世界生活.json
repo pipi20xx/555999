@@ -2,7 +2,7 @@
   "description": "S1 1-25/S2 1-25/S3 1-16",
   "groups": [
     {
-      "name": "第一季",
+      "name": "第 1 季",
       "order": 1,
       "episodes": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "第二季",
+      "name": "第 2 季",
       "order": 2,
       "episodes": [
         {
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "name": "第三季",
+      "name": "第 3 季",
       "order": 3,
       "episodes": [
         {
