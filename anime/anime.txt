@@ -69,3 +69,6 @@ Kono.Subarashii.Sekai.ni.Shukufuku.+\b2\b.+\[(\d+)\] =>  {[tmdbid=65844;type=tv;
 (?i)\bShakugan.no.Shana.III\b =>  {[tmdbid=22634;type=tv;s=3]}
 #暗芝居
 Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
+#石纪元
+(?i)\bDr.STONE.+?New.World\b => {[tmdbid=86031;type=tv;s=3]}
+(?i)\bDr.Stone.+?Science.Future\b => {[tmdbid=86031;type=tv;s=4]}
