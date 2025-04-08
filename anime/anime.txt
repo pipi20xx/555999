@@ -74,3 +74,6 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 (?i)\bDr.Stone.+?Science.Future\b => {[tmdbid=86031;type=tv;s=4]}
 #搞笑漫画日和
 (?i)\bGag.Manga.Biyori.GO\b => {[tmdbid=80007;type=tv;s=5]}
+#黑执事
+(?i)\bKuroshitsuji.+?Midori.no.Majo.hen\b => {[tmdbid=50712;type=tv;s=5]}
+(?i)\bKuroshitsuji.+?Kishuku.Gakkou.hen\b => {[tmdbid=50712;type=tv;s=4]} 
