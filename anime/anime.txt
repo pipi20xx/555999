@@ -77,3 +77,4 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 #黑执事
 (?i)\bKuroshitsuji.+?Midori.no.Majo.hen\b => {[tmdbid=50712;type=tv;s=5]}
 (?i)\bKuroshitsuji.+?Kishuku.Gakkou.hen\b => {[tmdbid=50712;type=tv;s=4]} 
+(?i)\bKuroshitsuji.+?Book.of.Circus\b => {[tmdbid=50712;type=tv;s=3]} 
