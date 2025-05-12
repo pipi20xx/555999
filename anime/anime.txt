@@ -80,4 +80,3 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 (?i)\bKuroshitsuji.+?Book.of.Circus\b => {[tmdbid=50712;type=tv;s=3]} 
 #打了300年的史莱姆，不知不觉就练到了满级 
 (?i)\bSlime.Taoshite.300.nen.+?Shiranai.Uchi.ni.Level.Max.ni.Nattemashita.+?Sono.Ni\b => {[tmdbid=99073;type=tv;s=2]} 
-#####
