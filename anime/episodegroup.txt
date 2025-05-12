@@ -2,3 +2,4 @@
 #灼眼的夏娜 philosophy-raws
 \[Shakugan no Shana\]\[OVA\] =>  {[tmdbid=22634;type=tv;s=1;e=13]}
 \[Shakugan no Shana S\]\[OVA([0-9])\] =>  {[tmdbid=22634;type=tv;s=4;e=\1]}
+###
