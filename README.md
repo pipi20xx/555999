@@ -25,3 +25,4 @@ https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/anime
 4 episodegroupRE.txt 需配合剧集组 https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/episodegroupRE.txt
 
 数字就是顺位
+#@####
