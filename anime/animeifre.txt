@@ -34,3 +34,5 @@
 @?{[tmdbid=236385;type=tv;e=13-24]} => {[s=2;e=EP-12]}
 #青春猪头少年不会梦到圣诞服女郎
 @?{[includes=(?i)Seishun.Buta.Yarou.wa.Santa.Claus.no.Yume.wo.Minai]} => {[s=2]} 
+#焰烬曙明
+@?{[includes=(?i)Arknights.+?Enshin.Shomei]} => {[s=3]}
