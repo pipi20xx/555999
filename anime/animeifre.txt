@@ -38,3 +38,5 @@
 @?{[includes=(?i)Arknights.+?Enshin.Shomei]} => {[s=3]}
 #噗妮露是可爱史莱姆
 @?{[tmdbid=241811;type=tv;e=13-24]} => {[s=2;e=EP-12]}
+#更衣人偶坠入爱河
+@?{[tmdbid=123249;type=tv;e=13-24]} => {[s=2;e=EP-12]}
