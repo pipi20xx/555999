@@ -27,3 +27,6 @@
 @?{[tmdbid=223500;type=tv;e=14-25]} => {[s=2;e=EP-13]}
 #小市民
 @?{[tmdbid=243501;type=tv;e=11-22]} => {[s=2;e=EP-10]}
+#更衣人偶坠入爱河
+@?{[includes=Sono.Bisque.Doll.wa.Koi.wo.Suru&2025]} => {[s=2;tmdbid=123249;type=tv]} 
+@?{[tmdbid=123249;type=tv;e=13-24]} => {[s=2;e=EP-12]}
