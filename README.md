@@ -12,7 +12,6 @@ Group.txt https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/a
 
 https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/anime.txt
 
-4 episodegroup.txt 需配合剧集组  https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/episodegroup.txt
 
 自定义渲染词
 
