@@ -36,3 +36,5 @@
 @?{[includes=(?i)Seishun.Buta.Yarou.wa.Santa.Claus.no.Yume.wo.Minai]} => {[s=2]} 
 #焰烬曙明
 @?{[includes=(?i)Arknights.+?Enshin.Shomei]} => {[s=3]}
+#噗妮露是可爱史莱姆
+@?{[tmdbid=241811;type=tv;e=13-24]} => {[s=2;e=EP-12]}
