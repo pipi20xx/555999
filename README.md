@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/anime
 数字就是顺位
 #@####1651651
 1261231
-1111
+1111222
 1
 ##这两条是自动 给后面SXXEXX EPXX里面的集号 加括号 非必要不用使用
 (S\d+E\d+)(.*)\b(S\d+E\d+)\b => \1\2[\3]
