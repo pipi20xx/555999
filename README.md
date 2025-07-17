@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/anime
 
 4 episodegroupRE.txt 需配合剧集组 https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/episodegroupRE.txt
 
-数字就是顺位 实现了远程控制
+数字就是顺位 实现了远程控制武器的群多无群
 ##这两条是自动 给后面SXXEXX EPXX里面的集号 加括号 非必要不用使用
 (S\d+E\d+)(.*)\b(S\d+E\d+)\b => \1\2[\3]
 (S\d+E\d+)(.*)\b(E.\d+)\b => \1\2[\3]
