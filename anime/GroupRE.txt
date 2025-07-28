@@ -98,3 +98,4 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?<=[\W_])DSNP(?=[\W_]) => Disney+
 (?i)\bYumezukuri\b => 织梦字幕组
 (?i)\bWMSUB\b => 风车字幕组
+(?i)\bObserver Station\b => 神椿观测站
