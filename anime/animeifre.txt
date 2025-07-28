@@ -35,5 +35,3 @@
 #青春猪头少年不会梦到圣诞服女郎
 #焰烬曙明
 @?{[includes=(?i)Arknights.+?Enshin.Shomei]} => {[s=3]}
-#噗妮露是可爱史莱姆
-@?{[tmdbid=241811;type=tv;e=13-24]} => {[s=2;e=EP-12]}
