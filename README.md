@@ -29,4 +29,3 @@ https://raw.githubusercontent.com/pikaqiu2222/555999/refs/heads/main/anime/anime
 (S\d+E\d+)(.*)\b(E.\d+)\b => \1\2[\3]
 
 
-测试连接正常不
