@@ -40,3 +40,13 @@
 @?{[tmdbid=213830;type=tv;e=13-24]} => {[s=2;e=EP-12]}
 #噗妮露是可爱史莱姆
 @?{[tmdbid=241811;type=tv;e=13-24]} => {[s=2;e=EP-12]}
+#凡人修仙传
+@?{[tmdbid=106449;type=tv;e=1-17]} => {[s=1]}
+@?{[tmdbid=106449;type=tv;e=18-21]} => {[s=2;e=EP-17]}
+@?{[tmdbid=106449;type=tv;e=22-46]} => {[s=3;e=EP-21]}
+@?{[tmdbid=106449;type=tv;e=47-60]} => {[s=4;e=EP-46]}
+@?{[tmdbid=106449;type=tv;e=61-72} => {[s=5;e=EP-60]}
+@?{[tmdbid=106449;type=tv;e=73-76]} => {[s=6;e=EP-72]}
+@?{[tmdbid=106449;type=tv;e=77-124]} => {[s=7;e=EP-76]}
+@?{[tmdbid=106449;type=tv;e=125-152]} => {[s=8;e=EP-124]}
+@?{[tmdbid=106449;type=tv;e=153-190]} => {[s=9;e=EP-152]}
