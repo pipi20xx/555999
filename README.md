@@ -35,6 +35,8 @@ https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animepis
 
 
 (S\d+E\d+)(.*)\b(S\d+E\d+)\b => \1\2[\3]
+
+
 (S\d+E\d+)(.*)\b(E.\d+)\b => \1\2[\3]
 
 
