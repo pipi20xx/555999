@@ -35,3 +35,5 @@
 #青春猪头少年不会梦到圣诞服女郎
 #焰烬曙明
 @?{[includes=(?i)Arknights.+?Enshin.Shomei]} => {[s=3]}
+#3年Z班银八老师
+@?{[includes=GINTAMA&2025]} => {[s=1;tmdbid=222624;type=tv]}
