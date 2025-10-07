@@ -1,1 +1,3 @@
 #需要搭配剧集组使用
+#婚戒物语  LoliHouse
+(?i)Kekkon.Yubiwa.Monogatari.II => Kekkon.Yubiwa.Monogatari.S2
