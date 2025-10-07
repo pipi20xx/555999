@@ -1,5 +1,5 @@
 #识别为字幕组
-(?<!-)(Disney\+|playWEB|Baha|B-Global|Crunchyroll|friDay|LINETV|KKTV|ATVP|DSNP|NF|CRAMZN|Netflix|Amazon|AppleTV\+) => -\1
+(?<!-)(Disney\+|playWEB|Baha|B-Global|Crunchyroll|friDay|LINETV|KKTV|ATVP|DSNP|NF|IQ|CRAMZN|Netflix|Amazon|AppleTV\+) => -\1
 #防止00v2识别异常
 \[(\d+)v\d\] => [\1]
 \b(\d+)v\d\b => \1
