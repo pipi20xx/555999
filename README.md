@@ -1,6 +1,8 @@
 自定义制作组
 
-Group.txt https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/Group.txt
+Group.txt 
+
+https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/Group.txt
 
 自定义替换词
 
@@ -27,7 +29,11 @@ https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animepis
 4 episodegroupRE.txt 需配合剧集组 https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/episodegroupRE.txt
 
 数字就是顺位 实现了远程控制武器的群多无群
-##这两条是自动 给后面SXXEXX EPXX里面的集号 加括号 非必要不用使用
+
+
+##这两条是自动 给后面SXXEXX EPXX里面的集号 加中括号 非必要不用使用
+
+
 (S\d+E\d+)(.*)\b(S\d+E\d+)\b => \1\2[\3]
 (S\d+E\d+)(.*)\b(E.\d+)\b => \1\2[\3]
 
