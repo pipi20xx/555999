@@ -99,3 +99,6 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bYumezukuri\b => 织梦字幕组
 (?i)\bWMSUB\b => 风车字幕组
 (?i)\bObserver Station\b => 神椿观测站
+(?i)\bStudio GreenTea\b => 绿茶字幕组
+(?i)\bMahiruSub\b => 隣天使字幕组
+(?i)\bSHIGURE\b => 時雨初空
