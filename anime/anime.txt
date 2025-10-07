@@ -89,3 +89,6 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 \[Shakugan no Shana S\]\[OVA([0-9])\] =>  {[tmdbid=22634;type=tv;s=4;e=\1]}
 #青春猪头S2 AD
 (?i)Seishun.Buta.Yarou.wa.Santa.Claus.no.Yume.wo.Minai => {[tmdbid=82739;type=tv;s=2]} 
+#婚戒物语  LoliHouse
+(?i)Kekkon.Yubiwa.Monogatari.II => Kekkon.Yubiwa.Monogatari.S2
+ 
