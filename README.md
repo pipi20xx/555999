@@ -24,7 +24,9 @@ https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animepis
 
 2 GroupRE.txt 字幕组名字替换 https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/GroupRE.txt
 
-3 animeifre.txt 常用替换 https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animeifre.txt
+3 animeifre.txt 常用替换 
+
+https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animeifre.txt
 
 4 episodegroupRE.txt 需配合剧集组 https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/episodegroupRE.txt
 
