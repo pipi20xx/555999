@@ -38,6 +38,6 @@
 #3年Z班银八老师
 @?{[includes=GINTAMA&2025]} => {[s=1;tmdbid=222624;type=tv]}
 #
-#3年Z班银八老师
+#王者天下
 @?{[includes=Kingdom&BeanSub]} => {[tmdbid=46437;type=tv]}
 @?{[includes=Kingdom&FROGWeb]} => {[tmdbid=46437;type=tv]}
