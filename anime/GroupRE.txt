@@ -102,3 +102,4 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bStudio GreenTea\b => 绿茶字幕组
 (?i)\bMahiruSub\b => 隣天使字幕组
 (?i)\bSHIGURE\b => 時雨初空
+(?i)\b三明治擺爛組\b => 三明治摆烂组
