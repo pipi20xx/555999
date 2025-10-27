@@ -41,3 +41,6 @@
 #王者天下
 @?{[includes=Kingdom&BeanSub]} => {[tmdbid=46437;type=tv]}
 @?{[includes=Kingdom&FROGWeb]} => {[tmdbid=46437;type=tv]}
+#间谍过家家S2-S3
+@?{[tmdbid=120089;type=tv;e=26-37]} => {[s=2;e=EP-25]}
+@?{[tmdbid=120089;type=tv;e=38-50]} => {[s=3;e=EP-37]}
