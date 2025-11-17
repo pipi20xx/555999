@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animeifr
 
 4 episodegroupRE.txt 需配合剧集组 https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/episodegroupRE.txt
 
-数字就是顺位 实现了远程控制武器的群多无群
+数字就是顺位 
 
 
 ##这两条是自动 给后面SXXEXX EPXX里面的集号 加中括号 非必要不用使用 不使用源文件名没有必要使用
