@@ -33,6 +33,7 @@
 #时光巡逻队
 @?{[tmdbid=236385;type=tv;e=13-24]} => {[s=2;e=EP-12]}
 #青春猪头少年不会梦到圣诞服女郎
+@?{[includes=青春豬頭少年不會夢到聖誕服女郎]} => {[s=2;tmdbid=82739;type=tv]}
 #焰烬曙明
 @?{[includes=(?i)Arknights.+?Enshin.Shomei]} => {[s=3]}
 #3年Z班银八老师
