@@ -93,3 +93,7 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 (?i)Kakuriyo.no.Yadomeshi.Ni => {[tmdbid=78483;type=tv;s=2]}
 #支配者的王冠
 (?i)9-nine- => {[tmdbid=270931;type=tv]}
+#
+\[ANi\] 去唱卡拉 OK 吧=> {[tmdbid=274546;type=tv]}
+#
+\[ANi\] 華 Doll＊ -Reinterpretation of Flowering => {[tmdbid=283361;type=tv]}
