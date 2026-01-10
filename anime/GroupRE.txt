@@ -104,4 +104,4 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\b三明治擺爛組\b|(?i)\bsmzase\b => 三明治摆烂组
 (?i)\bOguriClub\b => 小栗帽后援会
 (?i)\bNJworkshop\b => 虹作坊汉化组
-(?i)\bKyokuSai\b|極彩花夢|極彩字幕组 => 极彩花梦
+(?i)\bKyokuSai\b|極彩花夢|極彩字幕组|极彩字幕组 => 极彩花梦
