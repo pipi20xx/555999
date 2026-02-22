@@ -95,5 +95,7 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 \[ANi\] 去唱卡拉 OK 吧=> {[tmdbid=274546;type=tv]}
 #
 \[ANi\] 華 Doll＊ -Reinterpretation of Flowering => {[tmdbid=283361;type=tv]}
-#
+#S3
 \[ANi\] 炎炎消防隊 參之章 => {[tmdbid=88046;type=tv;s=3]}
+#S2
+Trigun Stargaze => {[s=2]}
