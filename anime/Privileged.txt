@@ -1,14 +1,14 @@
-# 1. LoliHouse 标准格式: [LoliHouse] Title - 01
-^$$(LoliHouse)$$\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$)|||1|||2|||3|||LoliHouse 定向
+# LoliHouse 定向
+^\[(LoliHouse)\]\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$)|||1|||2|||3|||LoliHouse 定向
 
-# 2. LoliHouse 合作组: [NC-Raws & LoliHouse] Title - 01
-^$$(.*?LoliHouse.*?)$$\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$)|||1|||2|||3|||LoliHouse 合作组
+# LoliHouse 合作组
+^\[(.*?LoliHouse.*?)\]\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$)|||1|||2|||3|||LoliHouse 合作组
 
-# 3. SweetSub 标准格式: [SweetSub] Title - 01
-^$$(SweetSub)$$\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$)|||1|||2|||3|||SweetSub 标准
+# SweetSub 标准
+^\[(SweetSub)\]\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$)|||1|||2|||3|||SweetSub 标准
 
-# 4. SweetSub 括号格式: [SweetSub] Title [01]
-^$$(SweetSub)$$\s+(.+?)\s+$$(\d{1,3})$$|||1|||2|||3|||SweetSub 括号
+# SweetSub 括号
+^\[(SweetSub)\]\s+(.+?)\s+\[(\d{1,3})\]|||1|||2|||3|||SweetSub 括号
 
-# 5. 晚街与灯: [晚街与灯] Title [01_SubTitle]
-$$(晚街[與与]燈)$$\s*(.+?)\s*$$(\d{1,3})(?:\s*[-_][^$$]*)?\]|||1|||2|||3|||晚街与灯 定向
+# 晚街与灯 定向
+\[(晚街[與与]燈)\]\s*(.+?)\s*\[(\d{1,3})(?:\s*[-_][^\]]*)?\]|||1|||2|||3|||晚街与灯 定向
