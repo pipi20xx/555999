@@ -30,6 +30,10 @@ https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animeifr
 
 4 episodegroupRE.txt 需配合剧集组 https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/episodegroupRE.txt
 
+自定义特权规则
+https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/Privileged.txt
+
+
 数字就是顺位 
 
 
