@@ -32,6 +32,8 @@ https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animeifr
 
 自定义特权规则
 https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/Privileged.txt
+
+
 ^(?!.*S\d+E\d+)(.+?)\.\d{4}.*-(.+?)(?:\.\w+)?$|||2|||1|||无|||通用电影格式
 
 
