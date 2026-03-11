@@ -6,7 +6,6 @@
 
 \[(.*LoliHouse)\]\ (.*)\ \[ => {[group=\1;title=\2]}#LoliHouse标题
 
-\[(.+?)\].+?\[BDRIP\]\[\d+P\] => {[title=\1;type=auto]}
 
 \[(SweetSub)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]} # SweetSub 标准 定向
 
