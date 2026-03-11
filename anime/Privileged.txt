@@ -1,10 +1,10 @@
-\[(LoliHouse)\]\ (.*)\ \- (\d+)\  => {[group=\1;title=\2;e=\3]}#LoliHouse定向
+\[(LoliHouse)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]}#LoliHouse定向
 
-\[(.*LoliHouse)\]\ (.*)\ \- (\d+)\  => {[group=\1;title=\2;e=\3]} # LoliHouse合作组定向
+\[(.*LoliHouse)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]} # LoliHouse合作组定向
 
 \[(.+?)\].+?\[BDRIP\]\[\d+P\] => {[title=\1;type=auto]}
 
-\[(SweetSub)\]\ (.*)\ \- (\d+)\  => {[group=\1;title=\2;e=\3]} # SweetSub 标准 定向
+\[(SweetSub)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]} # SweetSub 标准 定向
 
 \[(SweetSub)\](\[.+?\]\[.+?\])\[(\d+)\] => {[group=\1;title=\2;e=\3]} # SweetSub括号定向
 
