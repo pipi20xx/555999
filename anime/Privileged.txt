@@ -1,12 +1,12 @@
-\[(LoliHouse)\]\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$) => {[group=\1;title=\2;e=\3]}#这里是存放说明
+\[(LoliHouse)\]\ (.*)\ \- (\d+)\  => {[group=\1;title=\2;e=\3]}#LoliHouse定向
 
-\[(.*?LoliHouse.*?)\]\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$) => {[group=\1;title=\2;e=\3]} # LoliHouse 合作组 定向
+\[(.*LoliHouse)\]\ (.*)\ \- (\d+)\  => {[group=\1;title=\2;e=\3]} # LoliHouse合作组定向
 
 \[(.+?)\].+?\[BDRIP\]\[\d+P\] => {[title=\1;type=auto]}
 
-\[(SweetSub)\]\s+(.+?)\s+-\s+(\d{1,4})(?:\s|\[|$) => {[group=\1;title=\2;e=\3]} # SweetSub 标准 定向
+\[(SweetSub)\]\ (.*)\ \- (\d+)\  => {[group=\1;title=\2;e=\3]} # SweetSub 标准 定向
 
-\[(SweetSub)\]\s+(.+?)\s+\[(\d{1,3})\] => {[group=\1;title=\2;e=\3]} # SweetSub 括号 定向
+\[(SweetSub)\](\[.+?\]\[.+?\])\[(\d+)\] => {[group=\1;title=\2;e=\3]} # SweetSub括号定向
 
 
 \[(晚街[与與][灯燈])\]\s*\[([^\]]+)\]\s*\[(\d+(?:&[a-zA-Z]+)?)(?:[\s_][^\]]*)?\] => {[group=\1;title=\2;e=\3]} # 晚街与灯 定向
