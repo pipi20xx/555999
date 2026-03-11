@@ -1,6 +1,10 @@
 \[(LoliHouse)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]}#LoliHouse定向
 
+
+
 \[(.*LoliHouse)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]} # LoliHouse合作组定向
+
+\[(.*LoliHouse)\]\ (.*)\ \[ => {[group=\1;title=\2]}#LoliHouse标题
 
 \[(.+?)\].+?\[BDRIP\]\[\d+P\] => {[title=\1;type=auto]}
 
