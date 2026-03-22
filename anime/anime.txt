@@ -99,3 +99,5 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 \[ANi\] 炎炎消防隊 參之章 => {[tmdbid=88046;type=tv;s=3]}
 #S2
 Trigun Stargaze => {[s=2]}
+#JOJO S6
+飙马野郎|Steel Ball Run => S6
