@@ -101,3 +101,5 @@ Yami.Shibai.+?(\d+).+?(\d+).+?^[A-Za-z]+$ => {[tmdbid=56559;type=tv;s=\1;e=\2]}
 Trigun Stargaze => {[s=2]}
 #JOJO S6
 飙马野郎|Steel Ball Run => S6
+#魔都精兵S2
+Mato Seihei no Slave 2 => Mato Seihei no Slave S2
