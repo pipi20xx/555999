@@ -103,3 +103,5 @@ Trigun Stargaze => {[s=2]}
 飙马野郎|Steel Ball Run => S6
 #魔都精兵S2
 Mato Seihei no Slave 2 => Mato Seihei no Slave S2
+#關於我在無意間被隔壁的天使變成廢柴這件事ANIS2
+關於我在無意間被隔壁的天使變成廢柴這件事 2 => 關於我在無意間被隔壁的天使變成廢柴這件事 S2
