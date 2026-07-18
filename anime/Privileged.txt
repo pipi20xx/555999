@@ -19,7 +19,7 @@
 
 \[(VCB-Studio)\]\s+(.+?)\s+\[(\d{1,3})(?:\(\d+\))?\] => {[group=\1;title=\2;e=\3]} # VCB-Studio 定向
 
-\[(ANi)\]\s+(.+?)\s+(\d+)\s+-\s+(\d{1,4}) => {[group=\1;title=\2;s=\3;e=\4]} # ANi季号+集数格式
+\[(ANi)\]\s+(.+?)\s+([2-9])\s+-\s+(\d{1,4}) => {[group=\1;title=\2;s=\3;e=\4]} # ANi季号+集数格式
 
 \[(ANi)\] (.*?) - .*?\[Baha\]\[WEB-DL\] => {[group=\1;title=\2]}#ANI标题定向
 
