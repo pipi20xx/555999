@@ -1,6 +1,9 @@
+
+\[(LoliHouse)\]\ (.+)\ ([2-9])\ \- (\d+) => {[group=\1;title=\2;s=\3;e=\4]} # LoliHouse季号+集数格式
+
 \[(LoliHouse)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]}#LoliHouse定向
 
-
+\[(.*LoliHouse)\]\ (.+)\ ([2-9])\ \- (\d+) => {[group=\1;title=\2;s=\3;e=\4]} # LoliHouse合作组季号+集数格式
 
 \[(.*LoliHouse)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]} # LoliHouse合作组定向
 
