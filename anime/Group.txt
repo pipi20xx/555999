@@ -171,3 +171,5 @@ PTerWEB
 NEST
 BEWDA
 Nix-Raws
+追放字幕组
+ExileSub
