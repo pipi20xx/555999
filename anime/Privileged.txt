@@ -8,6 +8,7 @@
 
 \[(.*LoliHouse)\]\ (.*)\ \[ => {[group=\1;title=\2]}#LoliHouse标题
 
+\[(Nekomoe kissaten|喵萌奶茶屋)\]\[(.+?)\]\[(\d+)\] => {[title=\2]} #[字幕组][标题][集数]命中 喵萌
 
 \[(SweetSub)\]\ (.*)\ \- (\d+) => {[group=\1;title=\2;e=\3]} # SweetSub 标准 定向
 
