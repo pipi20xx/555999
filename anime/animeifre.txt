@@ -41,7 +41,7 @@
 #3年Z班银八老师
 @?{[includes=GINTAMA&2025]} => {[s=1;tmdbid=222624;type=tv]}
 #
-#间谍过家家S2-S3
+# [自动分季] 间谍过家家 TMDB:120089 依据=finale 2026-10-11
 @?{[tmdbid=120089;type=tv;e=26-37]} => {[s=2;e=EP-25]}
 @?{[tmdbid=120089;type=tv;e=38-50]} => {[s=3;e=EP-37]}
 #一拳超人S3
